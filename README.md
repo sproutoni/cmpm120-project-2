@@ -1,0 +1,4 @@
+Controls: Space to shoot, "A" to go left, "D" to go right
+You score by successfully killing the enemies. The enemies that don't shoot are worth 10 points and the ones that shoot and move are worth 20. If an enemy gets behind you, you lose 20 points. If you are hit by an enemy or enemy bullet, you lose one heart. 
+
+Bonus elements: There are infinite levels, each level adds one more row of enemies where the chance of getting enemies that shoot and move gets higher and higher. I added a highscore feature although I'm not sure it reads from the disk properly but it'll definitely save in one session. There is a title screen with a video demo. There is also a controls and credits screen you can get to on the title screen.
